@@ -24,6 +24,9 @@ function ProductCard(props) {
           <Typography variant="body2" color="text.secondary">
             {product.description}
           </Typography>
+
+
+          
           <Typography variant="h6" color="text.secondary">
           Price: ${product.price}
           </Typography>
